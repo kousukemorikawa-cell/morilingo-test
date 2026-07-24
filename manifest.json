@@ -1,0 +1,15 @@
+{
+  "name": "モリリンゴ",
+  "short_name": "モリリンゴ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2f8f57",
+  "icons": [
+    {
+      "src": "assets/icon/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
